@@ -69,21 +69,19 @@ params:
             - name: Books
               url: books/
             - name: Old courses
-              url: courses/https://zorzeus.github.io/old-faculty-site/
+              url: "https://zorzeus.github.io/old-faculty-site/"
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: "powaqqatsi98@proton.me"
+          url: "mailto:powaqqatsi98@proton.me"
         - name: Zoom
           url: ""
         - name: Location
-          url: location/https://maps.app.goo.gl/bAFRfhbMy3zXFrf77
+          url: "https://maps.app.goo.gl/bAFRfhbMy3zXFrf77"
         - name: Google Scholar
           url: ""
         - name: GitHub
