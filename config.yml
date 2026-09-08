@@ -68,8 +68,8 @@ params:
               url: data/
             - name: Books
               url: books/
-            - name: Courses
-              url: courses/
+            - name: Old courses
+              url: courses/https://zorzeus.github.io/old-faculty-site/
             - name: Tags
               url: tags/
             - name: Archive
@@ -79,25 +79,19 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: ""
+          url: "powaqqatsi98@proton.me"
         - name: Zoom
           url: ""
         - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: location/https://maps.app.goo.gl/bAFRfhbMy3zXFrf77
         - name: Google Scholar
           url: ""
         - name: GitHub
-          url: ""
+          url: "https://github.com/zorzeus"
         - name: YouTube
-          url: ""
-        - name: Substack
-          url: ""
-        - name: Twitter
-          url: ""
+          url: "https://www.youtube.com/@zorzeus"
         - name: Bluesky
-          url: ""
+          url: "https://bsky.app/profile/dordeus.bsky.social"
 
     assets:
         disableScrollBarStyle: true
