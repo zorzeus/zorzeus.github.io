@@ -18,6 +18,9 @@
     gap: 10px;
 }
 
+profile .profile_inner { background: rgba(255, 255, 255, 0.85); padding: 32px; border-radius: 12px; }`
+
+
 .profile .profile_inner h1 {
     font-size: 2.5rem;
 }
