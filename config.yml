@@ -36,7 +36,7 @@ params:
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -79,7 +79,7 @@ params:
         - name: Email
           url: "mailto:powaqqatsi98@proton.me"
         - name: Zoom
-          url: ""
+          url: "https://us04web.zoom.us/j/73715493279?pwd=ofUAXISMkZpwx4T3OA2oefIbRaNsFO.1"
         - name: Location
           url: "https://maps.app.goo.gl/bAFRfhbMy3zXFrf77"
         - name: Google Scholar
